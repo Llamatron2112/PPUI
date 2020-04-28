@@ -1,0 +1,7 @@
+## Interface: 70000
+## Author: The Internet
+## Title: Pixel Perfect UI
+## Version: 1.0
+## Notes: Sets the scale of the UI for pixel perfect display !
+
+PPUI.lua
